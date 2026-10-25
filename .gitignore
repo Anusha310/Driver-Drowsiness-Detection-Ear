@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+dataset/
+drowsiness_log.csv
+testvideo.mp4
